@@ -27,8 +27,8 @@ cd path/to/cockpit
 git clone https://github.com/raffaelj/cockpit_SimpleImageFixBlackBackgrounds.git addons/SimpleImageFixBlackBackgrounds
 ```
 
-[1]: https:github.com/agentejo/cockpit/
-[2]: https:github.com/raffaelj/SimpleImage/tree/fix-black-png-thumbnail
-[3]: https:github.com/claviska/SimpleImage/issues/236
-[4]: https:uberspace.de/en/
+[1]: https://github.com/agentejo/cockpit/
+[2]: https://github.com/raffaelj/SimpleImage/tree/fix-black-png-thumbnail
+[3]: https://github.com/claviska/SimpleImage/issues/236
+[4]: https://uberspace.de/en/
 [5]: https://github.com/claviska/SimpleImage/
