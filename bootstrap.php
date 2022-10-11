@@ -7,12 +7,12 @@
  * @see       https://github.com/agentejo/cockpit/
  * @see       https://github.com/claviska/SimpleImage/
  * 
- * @version   0.1.0
+ * @version   0.1.1
  * @author    Raffael Jesche
  * @license   MIT
  */
 
-if (GD_BUNDLED === 0) {
+if (defined('GD_BUNDLED') && GD_BUNDLED === 0) {
 
     $this->helpers['image'] = 'SimpleImageFixBlackBackgrounds\\Helper\\Image';
 
