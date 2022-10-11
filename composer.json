@@ -1,0 +1,23 @@
+{
+    "name": "raffaelj/cockpit-simpleimagefixblackbackgrounds",
+    "type": "cockpit-module",
+    "description": "Addon for Cockpit CMS v1, that replaces an image library with a modified version to prevent black backgrounds of transparent images with non-bundled PHP/GD versions.",
+    "keywords": ["cockpit"],
+    "homepage": "https://github.com/raffaelj/cockpit_SimpleImageFixBlackBackgrounds",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Raffael Jesche",
+            "homepage": "https://www.rlj.me"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.9"
+    },
+    "config": {
+        "vendor-dir": "lib/vendor"
+    },
+    "extra": {
+        "installer-name": "SimpleImageFixBlackBackgrounds"
+    }
+}
